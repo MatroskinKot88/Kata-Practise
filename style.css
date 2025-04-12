@@ -1,0 +1,137 @@
+body {
+    margin: 0; 
+    width: 320px;
+    height: 509px;
+    font-family: 'TT Lakes';
+    src: url('TTLakes-Bold.eot');
+    src: local('TT Lakes Bold'), local('TTLakes-Bold'),
+        url('TTLakes-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TTLakes-Bold.woff') format('woff'),
+        url('TTLakes-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    overflow: auto;
+}   
+
+
+.container {
+    width: 320px;
+    height: 88;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row nowrap;
+}
+
+.header__icon-1 {
+    width: 40;
+    height: 40;
+    top: 24px;
+    left: 16px;  
+
+}
+
+.header__icon-2 {
+    width: 96.54814910888672;
+    height: 50.814815521240234;
+    top: 18.59px;
+    left: 72.73px;
+    border-width: 0.5px;
+}   
+
+.header__icon-3 {
+    width: 2;
+    height: 32;
+    top: 28px;
+    left: 186px;
+    border-radius: 1px;
+}    
+
+.header__icon-4 {
+    width: 40;
+    height: 40;
+    top: 24px;
+    left: 208px;
+}    
+
+.header__icon-5 {
+    width: 40;
+    height: 40;
+    top: 24px;
+    left: 264px;
+}    
+
+.main {
+    width: 320;
+    height: 509;
+    top: 88px;    
+}
+
+.title {
+    width: 304;
+    height: 40;
+    top: 112px;
+}
+
+.menu {
+    display: flex;
+    flex-flow: nowrap;
+    align-content: flex-start;
+    width: 504;
+    height: 40;
+    top: 176px;
+    left: 16px;
+    margin-top: 15px;
+   
+}
+
+.menu__pos-1 {
+    width: 246;
+    height: 40;
+    top: 184px;
+    left: 24px;
+    border: 2px solid #B8FFEC;
+    border-radius: 6px;
+    padding: 5px;
+    background-color: white;
+}
+.menu__pos-2 {
+    width: 246;
+    height: 40;
+    top: 184px;
+    left: 24px;
+    border-radius: 6px;
+    padding: 5px;
+    background-color: white;
+}
+.menu__pos-3 {
+    width: 246;
+    height: 40;
+    top: 184px;
+    left: 24px;
+    border-radius: 6px;
+    padding: 5px;
+    background-color: white;
+}
+.menu__pos-4 {
+    width: 246;
+    height: 40;
+    top: 184px;
+    left: 24px;
+    border-radius: 6px;
+    padding: 5px;
+    background-color: white;
+}
+.menu__pos-5 {
+    width: 246;
+    height: 40;
+    top: 184px;
+    left: 24px;
+    border-radius: 6px;
+    padding: 5px;
+    background-color: white;
+}
+
+.
